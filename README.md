@@ -4,7 +4,8 @@ This app lets you upload a recorded meeting and returns:
 - A short summary
 - Action items
 - Full transcript
-Features:
+  
+##Features:
 - **Whisper** for transcription (locally, not via Ollama)
 - **LLaMA2** via **Ollama** for summarization and task extraction
 - **FastAPI** for the backend
